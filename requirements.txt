@@ -1,4 +1,0 @@
-spotipy
-requests
-jupyter
-pandas

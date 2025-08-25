@@ -1,2 +1,3 @@
-# ether
-pytorch / last.fm API song reccomender
+# monolith
+
+pytorch / MovieLens API song reccomender
